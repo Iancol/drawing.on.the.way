@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mia App</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="MENU_0">Condividi</string>
+    <string name="MENU_1">Dialogo esempio</string>
+    <string name="MENU_2">Chi sono</string>
+    <string name="MENU_3">Uscita</string>
+    <string name="MENU_1_about">Twitter</string>
+    <string name="MENU_2_about">Facebook</string>
+    <string name="MENU_3_about">Uscita</string>
+    <string-array name="menu1">
+        <item>Divorziato/a</item>
+        <item>Separato/a</item>
+        <item>Coniugato/a</item>
+        <item>Celibe/Nubile</item>
+    </string-array>
+    <string name="arap">Possibilità di praticare molte attività informatiche!</string>
+
+    <string name="sport_ipsum">Possibilità di praticare molte attività sportive: dagli sport d\'acqua, all\'atletica. Tennis, sport di squadra e molto altro. Sempre accompagnati da istruttori e medici preparatissimi</string>
+
+    <string name="natura_ipsum">La Natura non mancherà di offrire il proprio spettacolo con tramonti romantici e paesaggi imponenti in cui mare e montagne si presenteranno nel loro magico splendore</string>
+
+    <string name="cibo_ipsum">Si potranno gustare piatti prelibati. Dalle ricette della tradizione alle specialità etniche: per uno spuntino veloce o il divertimento di una cena con gli amici</string>
+
+</resources>

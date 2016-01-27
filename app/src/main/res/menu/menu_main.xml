@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/MENU_01"
+        android:title="@string/MENU_01"/>
+
+    <item
+        android:id="@+id/MENU_0"
+        android:title="@string/MENU_0"/>
+    <item
+        android:id="@+id/MENU_1"
+        android:title="@string/MENU_1"/>
+    <item
+        android:id="@+id/MENU_2"
+        android:title="@string/MENU_2"/>
+    <item
+        android:id="@+id/MENU_3"
+        android:title="@string/MENU_3"/>
+
+</menu>

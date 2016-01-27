@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Drawing on the way</string>
+    <string name="action_settings">Settings</string>
+    <string name="MENU_01">Share app</string>
+    <string name="MENU_0">Share img</string>
+    <string name="MENU_1">Dialog</string>
+    <string name="MENU_2">About</string>
+    <string name="MENU_3">Exit</string>
+    <string name="MENU_1_about">Twitter</string>
+    <string name="MENU_2_about">Facebook</string>
+    <string name="MENU_3_about">Exit</string>
+    <string-array name="menu1">
+        <item>Divorziato/a</item>
+        <item>Separato/a</item>
+        <item>Coniugato/a</item>
+        <item>Celibe/Nubile</item>
+    </string-array>
+    <string name="arap">Possibilità di praticare molte attività informatiche!</string>
+
+    <string name="sport_ipsum">Possibilità di praticare molte attività sportive: dagli sport d\'acqua, all\'atletica. Tennis, sport di squadra e molto altro. Sempre accompagnati da istruttori e medici preparatissimi</string>
+
+    <string name="natura_ipsum">La Natura non mancherà di offrire il proprio spettacolo con tramonti romantici e paesaggi imponenti in cui mare e montagne si presenteranno nel loro magico splendore</string>
+
+    <string name="cibo_ipsum">Si potranno gustare piatti prelibati. Dalle ricette della tradizione alle specialità etniche: per uno spuntino veloce o il divertimento di una cena con gli amici</string>
+
+</resources>
